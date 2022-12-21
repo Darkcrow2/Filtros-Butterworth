@@ -1,5 +1,5 @@
 # Filtros-Butterworth
-Programa en el cual se obtienen diferentes filtros butterworth
+Programa en el cual se obtienen la respuesta de frecuencia de diferentes filtros butterworth
 
 Se obtiene la gráfica del filtro pasa bajos de 40000 hz de frecuencia de corte:
 
